@@ -1,0 +1,14 @@
+D:\Cyber2\obj\Debug\net9.0-windows\Cyber2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cyber2\obj\Debug\net9.0-windows\Cyber2.AssemblyInfoInputs.cache
+D:\Cyber2\obj\Debug\net9.0-windows\Cyber2.AssemblyInfo.cs
+D:\Cyber2\obj\Debug\net9.0-windows\Cyber2.csproj.CoreCompileInputs.cache
+D:\Cyber2\bin\Debug\net9.0-windows\Cyber2.exe
+D:\Cyber2\bin\Debug\net9.0-windows\Cyber2.deps.json
+D:\Cyber2\bin\Debug\net9.0-windows\Cyber2.runtimeconfig.json
+D:\Cyber2\bin\Debug\net9.0-windows\Cyber2.dll
+D:\Cyber2\bin\Debug\net9.0-windows\Cyber2.pdb
+D:\Cyber2\obj\Debug\net9.0-windows\Cyber2.dll
+D:\Cyber2\obj\Debug\net9.0-windows\refint\Cyber2.dll
+D:\Cyber2\obj\Debug\net9.0-windows\Cyber2.pdb
+D:\Cyber2\obj\Debug\net9.0-windows\Cyber2.genruntimeconfig.cache
+D:\Cyber2\obj\Debug\net9.0-windows\ref\Cyber2.dll
